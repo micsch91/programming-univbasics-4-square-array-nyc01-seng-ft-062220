@@ -7,3 +7,4 @@ while counter < numbers.length
   counter += 1
   new_numbers
 end
+  end
