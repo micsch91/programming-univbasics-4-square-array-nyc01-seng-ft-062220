@@ -8,3 +8,4 @@ while array[counter] do |index|
 
 end
 new_array
+end
