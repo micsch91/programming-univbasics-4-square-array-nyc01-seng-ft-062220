@@ -5,6 +5,6 @@ counter = 0
 while counter < numbers.length
   new_numbers.push(numbers[counter] ** 2)
   counter += 1
-  new_numbers
 end
+new_numbers
   end
