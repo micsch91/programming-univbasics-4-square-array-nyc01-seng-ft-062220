@@ -3,5 +3,5 @@ def square_array(numbers)
   new_numbers = []
 
  puts numbers ** 2
- new_numbers.push(square_array[numbers])
+ new_numbers.push
 end
